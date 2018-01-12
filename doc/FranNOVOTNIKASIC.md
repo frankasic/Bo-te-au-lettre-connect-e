@@ -15,6 +15,8 @@ d'envoyer un message lorsque l'on reçoit du courrier. </br>Il faudra donc utili
 <li> Séance numéro 2 (12 décembre 2018) </li>
 </br>
 
-<p>L'ouverture de la boite au lettre en cas de remise de colis ne se fera plus grâce à une clé mais un système de code. La boite au lettre sera alors fermée par le biais d'un servo moteur, celui-ci controlé grâce à un potentiomètre et le code de la boite au lettre. Lorsque le facteur voudra déposer un colis, il devra tourner le potentiomètre afin d'obtenir une certaine tension nécessaire et rentrer le code. La fermeture de la boite au lettre se fera en remettant le pentotiomètre à sa position initiale.</p>
+<p>L'ouverture de la boite au lettre en cas de remise de colis ne se fera plus grâce à une clé mais un système de code. La boite au lettre sera alors fermée par le biais d'un servo moteur, celui-ci controlé grâce à un potentiomètre et le code de la boite au lettre. Lorsque le facteur voudra déposer un colis, il devra tourner le potentiomètre afin d'obtenir une certaine tension nécessaire et rentrer le code. La fermeture de la boite au lettre se fera en remettant le pentotiomètre à sa position initiale.
+On mettra également des led qui s'allument en fonction de l'intensité du potentiomètre, et une autre qui clignotera si une lettre ou un colis a été déposé dans la boite au lettre.</p>
 
-<u> lia </u>
+<strong> C'est parti </strong>
+
