@@ -33,3 +33,5 @@ Récapitulons le matériel nécessaire:
 D'autres composants pourront être utiliser en fonction de l'avancement du projet.
 
 <strong> Recherche du matériel sur différents sites : </strong>
+
+<img style="float: right;" src="https://i0.wp.com/letmeknow.fr/blog/wp-content/uploads/2015/10/1415113357-150x150.jpg?resize=150%2C150">
