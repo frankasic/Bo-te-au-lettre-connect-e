@@ -22,3 +22,12 @@ On mettra également des led qui s'allument en fonction de l'intensité du poten
 
 Récapitulons le matériel nécessaire:
 <ol> <li> Une boite au lettre </li>
+<li> Des leds </li>
+<li> 5 boutons poussoir <strong> ou </strong> 4 boutons poussoir + 1 microrupteur </li>
+<li> Une Carte WIFI </li>
+<li> Des fils de connection Breadboard </li>
+<li> Un potentiomètre </li>
+<li> Un servo-moteur </li>
+</ol>
+
+D'autres composants pourront être utiliser en fonction de l'avancement du projet.
