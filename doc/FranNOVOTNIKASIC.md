@@ -27,7 +27,7 @@ Récapitulons le matériel nécessaire:
 <li> Une Carte WIFI </li>
 <li> Des fils de connection Breadboard </li>
 <li> Un potentiomètre </li>
-<li> Un servo-moteur </li>
+<li> Un servo-moteur + levier de servo</li>
 </ol>
 
 D'autres composants pourront être utiliser en fonction de l'avancement du projet.
