@@ -32,4 +32,4 @@ Récapitulons le matériel nécessaire:
 
 D'autres composants pourront être utiliser en fonction de l'avancement du projet.
 
-<strong> Recherche du matériel sur différents sites </strong>
+<strong> Recherche du matériel sur différents sites : </strong>
