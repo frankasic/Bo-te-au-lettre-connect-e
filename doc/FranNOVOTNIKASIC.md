@@ -6,7 +6,7 @@
 <p>Etant un flemmard en ce qu'il s'agit de chercher le courrier, j'ai décidé de créer une boite au lettre connectée qui aura pour but
 d'envoyer un message lorsque l'on reçoit du courrier. </br>Il faudra donc utiliser un module de connectivité tel qu'un module WIFI ou Lora (module Lora sera priviligié car le module WIFI cosomme trop d'énergie par rapport à la quantité d'information à transmettre) .</p><br>
 
-<img src="https://i0.wp.com/letmeknow.fr/blog/wp-content/uploads/2015/10/1415113357-150x150.jpg?resize=150%2C150" title="Module LORA" >
+<img src="https://i0.wp.com/letmeknow.fr/blog/wp-content/uploads/2015/10/1415113357-150x150.jpg?resize=150%2C150" title="Module LORA" align="center" >
 
 </br>
 
