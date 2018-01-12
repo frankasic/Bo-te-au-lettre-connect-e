@@ -3,4 +3,4 @@
 Ce projet est réalisé dans le cadre de la formation de prépa intégrée de Polytech'Nice Sophia
 
 
-<h1> La Boîte Au Lettre Connectée </h1>
+<h1> La Boite Au Lettre Connectée </h1>
