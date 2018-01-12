@@ -16,3 +16,5 @@ d'envoyer un message lorsque l'on reçoit du courrier. </br>Il faudra donc utili
 </br>
 
 <p>L'ouverture de la boite au lettre en cas de remise de colis ne se fera plus grâce à une clé mais un système de code. La boite au lettre sera alors fermée par le biais d'un servo moteur, celui-ci controlé grâce à un potentiomètre et le code de la boite au lettre. Lorsque le facteur voudra déposer un colis, il devra tourner le potentiomètre afin d'obtenir une certaine tension nécessaire et rentrer le code. La fermeture de la boite au lettre se fera en remettant le pentotiomètre à sa position initiale.</p>
+
+ <span style="font-decoration:underline;">19/03/2008</span> !
