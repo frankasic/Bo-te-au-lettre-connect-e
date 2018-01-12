@@ -14,4 +14,4 @@ d'envoyer un message lorsque l'on reçoit du courrier. </br>Il faudra donc utili
 
 <p>Il faudra également que le message envoyé renseigne si une lettre a été déposé dans la boite au lettre par la fente ou bien si la boite au lettre a dû être ouverte pour y déposer un colis </p>
 
-<img src="C:\Users\user\Pictures\cartes.jpg"/>
+<img src="\Pictures\cartes.jpg"/>
