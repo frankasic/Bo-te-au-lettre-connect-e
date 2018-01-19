@@ -40,5 +40,5 @@ Récapitulons le matériel nécessaire:
 </br>
 
 <p>Dans cette séance, j'ai fini la la recherche du matériel. J'ai obtenu un servo-moteur à partir du quel je vais créer le premier code de ma boite au lettre. Le servo moteur a un levier unidirectionelle, il servira alors de serrure et remplacera celle qu'on utilisait avec la clé.</p>
-<p>Je crée alors un deuxième code qui va permettre l'allumage de trois led en fonction de l'intensité renvoyé par un
+<p>Je crée alors un deuxième code qui va permettre l'allumage de trois led en fonction de l'intensité renvoyé par un transistor, il faudra que les trois leds soient allumés avant de taper le code pour que le servo-moteur s'actionne et que la boite au lettre s'ouvre. En fermant la boite au lettre, il suffira de mettre le transistor à son état initial (donc plus de led allumé et servo-moteur à l'état initial)</p>
 
