@@ -31,13 +31,13 @@ Récapitulons le matériel nécessaire:
 <li> Un servo-moteur + levier de servo</li>
 </ol>
 
-D'autres composants pourront être utiliser en fonction de l'avancement du projet.
+<p>D'autres composants pourront être utiliser en fonction de l'avancement du projet.
 
-<strong> Recherche du matériel sur différents sites. </strong> 
+<strong> Recherche du matériel sur différents sites. </strong></p>
 </br>
 
 <ul> <li> Séance numéro 3 (19 janvier 2018) </li>
 </br>
 
-Dans cette séance, j'ai fini la la recherche du matériel. J'ai obtenu un servo-moteur à partir du quel je vais créer le premier code de ma boite au lettre. Le servo moteur a un levier unidirectionelle, il servira alors de serrure et remplacera celle qu'on utilisait avec la clé.
+<p>Dans cette séance, j'ai fini la la recherche du matériel. J'ai obtenu un servo-moteur à partir du quel je vais créer le premier code de ma boite au lettre. Le servo moteur a un levier unidirectionelle, il servira alors de serrure et remplacera celle qu'on utilisait avec la clé.</p>
 
