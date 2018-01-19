@@ -11,6 +11,7 @@ d'envoyer un message lorsque l'on reçoit du courrier. </br>Il faudra donc utili
 </br>
 
 <p>Il faudra également que le message envoyé renseigne si une lettre a été déposé dans la boite au lettre par la fente ou bien si la boite au lettre a dû être ouverte pour y déposer un colis. </p>
+</br>
 
 <li> Séance numéro 2 (12 janvier 2018) </li> </ul>
 </br>
@@ -32,9 +33,9 @@ Récapitulons le matériel nécessaire:
 
 D'autres composants pourront être utiliser en fonction de l'avancement du projet.
 
-<strong> Recherche du matériel sur différents sites. </strong>
+<strong> Recherche du matériel sur différents sites. </strong> </br>
 
-<ul> <li> Séance numéro 3 (19 janvier 2018) </li>
+<ul> <li> Séance numéro 3 (19 janvier 2018) </li></br>
 
 Dans cette séance, j'ai fini la la recherche du matériel. J'ai obtenu un servo-moteur à partir du quel je vais créer le premier code de ma boite au lettre. Le servo moteur a un levier unidirectionelle, il servira alors de serrure et remplacera celle qu'on utilisait avec la clé.
 
