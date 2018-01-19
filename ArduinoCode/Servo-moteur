@@ -1,0 +1,22 @@
+#include <Servo.h>
+ 
+Servo myservo;      // création de l'objet myservo 
+ 
+int potpin = 0;     // Entrée analogique sur lequel est connecté le potentiomètre
+int val;            // Variable contenant la valeur courante du potentiomètre 
+int servo_pin = 6;  // Pin auquel le servo est relié
+bool angle_actuel = false;// Envoi sur le port série la position courante du servomoteur
+ 
+ 
+void setup() {
+  Serial.begin(9600);       // Ouvre le port série                   
+  while(!Serial){;}     
+  myservo.attach(servo_pin);// attache le servo au pin spécifié sur l'objet myservo
+}
+ 
+void loop() {
+  val = analogRead(potpin);            // Lit la valeur actuelle du potentiomètre (valeur comprise entre 0 et 1023)
+  val = map(val, 0, 1023, 0, 180);     // Mise à l'échelle pour renvoyer la position entre 0 et 180°
+  myservo.write(val);                  // Déplace le servo à la position spécifiée
+
+  }
