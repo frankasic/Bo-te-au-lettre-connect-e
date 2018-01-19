@@ -39,6 +39,6 @@ Récapitulons le matériel nécessaire:
 <ul> <li> Séance numéro 3 (19 janvier 2018) </li>
 </br>
 
-<p>Dans cette séance, j'ai fini la la recherche du matériel. J'ai obtenu un servo-moteur à partir du quel je vais créer le premier code de ma boite au lettre. Le servo moteur a un levier unidirectionelle, il servira alors de serrure et remplacera celle qu'on utilisait avec la clé.
-Je crée alors un deuxième code qui va permettre l'allumage de trois led en fonction de l'intensité renvoyé par un </p>
+<p>Dans cette séance, j'ai fini la la recherche du matériel. J'ai obtenu un servo-moteur à partir du quel je vais créer le premier code de ma boite au lettre. Le servo moteur a un levier unidirectionelle, il servira alors de serrure et remplacera celle qu'on utilisait avec la clé.</p>
+<p>Je crée alors un deuxième code qui va permettre l'allumage de trois led en fonction de l'intensité renvoyé par un
 
