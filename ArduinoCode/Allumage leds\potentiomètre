@@ -1,1 +1,34 @@
+const int led_rouge=1; //LED rouge à la sortie 1
+const int led_rougebis=2;
+const int led_rougebiss=3;
+float tension=0;
+float tension_num=0;
+int potpin=0; // Entrée analogique sur lequel est connecté le potentiomètre
 
+void setup() {
+  Serial.begin(9600);
+  pinMode(led_rouge,OUTPUT);
+  pinMode(led_rougebis,OUTPUT);
+  pinMode(led_rougebiss,OUTPUT);
+  
+
+}
+
+void loop() {
+  tension_num=analogRead(0);
+  tension=tension_num/204.8;
+  if (tension < 1.5){
+    digitalWrite(3,LOW);
+    digitalWrite(2,LOW);
+    digitalWrite(1,HIGH);
+  }
+  if (tension >= 3){
+    digitalWrite(2,HIGH);
+    digitalWrite(3,LOW);
+    
+  }
+  if (tension >= 5){
+    digitalWrite(3,HIGH);
+  }
+
+}
