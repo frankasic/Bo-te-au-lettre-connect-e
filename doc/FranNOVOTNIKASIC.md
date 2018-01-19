@@ -33,9 +33,11 @@ Récapitulons le matériel nécessaire:
 
 D'autres composants pourront être utiliser en fonction de l'avancement du projet.
 
-<strong> Recherche du matériel sur différents sites. </strong> </br>
+<strong> Recherche du matériel sur différents sites. </strong> 
+</br>
 
-<ul> <li> Séance numéro 3 (19 janvier 2018) </li></br>
+<ul> <li> Séance numéro 3 (19 janvier 2018) </li>
+</br>
 
 Dans cette séance, j'ai fini la la recherche du matériel. J'ai obtenu un servo-moteur à partir du quel je vais créer le premier code de ma boite au lettre. Le servo moteur a un levier unidirectionelle, il servira alors de serrure et remplacera celle qu'on utilisait avec la clé.
 
