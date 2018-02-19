@@ -44,9 +44,15 @@ Récapitulons le matériel nécessaire:
 
 </br>
 <ul> <li> Séance numéro 4 (24 janvier 2018) </li></ul>
+</br>
 
-Présentation des projets
+<p>Présentation des projets
+
+<https://github.com/frankasic/Bo-te-au-lettre-connect-e/blob/master/doc/Pr%C3%A9sentation%20Arduino%201.pdf></p>
+</br>
+
 
 <ul> <li> Séance numéro 5 (7 février 2018) </li></ul>
+</br>
 
 J'ai fini le codage des leds ainsi que du transistor. Je commence le codage pour le code, j'utiliserai 4 boutons poussoirs qui correspondront chacun à des chiffres (1;2;3, et 4) et qui serviront à taper un code (que l'on aura choisi).
