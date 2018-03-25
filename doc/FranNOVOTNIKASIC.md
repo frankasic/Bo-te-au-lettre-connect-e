@@ -55,4 +55,19 @@ Récapitulons le matériel nécessaire:
 <ul> <li> Séance numéro 5 (7 février 2018) </li></ul>
 </br>
 
-J'ai fini le codage des leds ainsi que du transistor. Je commence le codage pour le code, j'utiliserai 4 boutons poussoirs qui correspondront chacun à des chiffres (1;2;3, et 4) et qui serviront à taper un code (que l'on aura choisi).
+<p>J'ai fini le codage des leds ainsi que du transistor. Je commence le codage pour le code, j'utiliserai 4 boutons poussoirs qui correspondront chacun à des chiffres (1;2;3, et 4) et qui serviront à taper un code (que l'on aura choisi). Ce code permettra alors l'ouverture de la porte de la boite au lettre, et on pourra la refermer en réactionnant le potentiomètre</p>
+
+</br>
+<ul><li> Séance numéro 6 (19 février 2018)</li></ul>
+</br>
+
+<p>Lors de cette séance j'ai continué le codage des boutons avec quelques boutons que M. Masson m'a prété en attendant la livraison de ceux que j'avais commandé et qui était un peu différents. De plus j'ai mis en pause le codage de ces boutons car lors de cette séance était venu le module LORA qui permet la communication entre la boite au lettre et le propriétaire de cette dernière. J'ai alors soudé avec l'aide de M.Ferrero le module sur une autre carte Arduino, mais nous avons finalement remarqué en fin de séance que la carte arduino sur laquelle nous avons placé le module LORA n'était pas compatible avec ce dernier et que donc son utilisation n'était plus possible. </p>
+
+</br>
+<ul><li> Séance numéro 7 (12 mars 2018)</li></ul>
+</br>
+
+
+<p> Lors de cette séance M.Ferrero m'a apporté une nouvelle carte arduino sur laquelle il avait soudé un module LORA pendant les "vacances".
+  J'ai alors pû installer le module et le mettre sur le réseau qu'avait créer M.Ferrero avec sa Gateway, un réseau qui couvre une zone allant des Luciolles aux Templiers. Je met également dans les codes sources, le code que j'ai utilisé pour l'installation du LORA sur ce réseau (code réalisé par M.Ferrero). J'ai alors créer un compte sur The Things Network qui est un réseau fonctionnant grâce à la technologie LORA et sur lequel j'ai enregistré mon appareil, en utilisant un des codes permettant l'installation de mon module avec l'arduino, je remarque sur ce site que le LORA est bien en fonctionnement. Je crée alors un compte Cayenne sur lequel je pourrai visualiser toutes les informations que mon LORA m'enverra. </p>
+
