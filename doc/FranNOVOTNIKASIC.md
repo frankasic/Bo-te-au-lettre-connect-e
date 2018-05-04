@@ -100,7 +100,7 @@ Récapitulons le matériel nécessaire:
   <ul><li> Séance numéro 11 (2 mai 2018)</li></ul>
  </br>
  
- <p> Lors de cette séance, tout mes codes étant plus ou moins fini, j'ai décidé d'assembler tout les codes, l'ordre étant important j'ai dû changer plusieurs fois l'assemblage du code final. J'ai également commencer l'assemblage de ma boite au lettre</p>
+ <p> Lors de cette séance, tout mes codes étant plus ou moins fini, j'ai décidé d'assembler tout les codes, l'ordre étant important j'ai dû changer plusieurs fois l'assemblage du code final. J'ai également reçu une petite batterie qui va permettre d'alimenter mon LORA. En basse consommation, la batterie aura de quoi alimenter le LORA pendant 2 ans. J'ai commencé à assembler ma boite au lettre en fin de séance.</p>
  
  
  
