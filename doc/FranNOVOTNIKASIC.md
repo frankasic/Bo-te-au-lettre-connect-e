@@ -70,4 +70,40 @@ Récapitulons le matériel nécessaire:
 
 <p> Lors de cette séance M.Ferrero m'a apporté une nouvelle carte arduino sur laquelle il avait soudé un module LORA pendant les "vacances".
   J'ai alors pû installer le module et le mettre sur le réseau qu'avait créer M.Ferrero avec sa Gateway, un réseau qui couvre une zone allant des Luciolles aux Templiers. Je met également dans les codes sources, le code que j'ai utilisé pour l'installation du LORA sur ce réseau (code réalisé par M.Ferrero). J'ai alors créer un compte sur The Things Network qui est un réseau fonctionnant grâce à la technologie LORA et sur lequel j'ai enregistré mon appareil, en utilisant un des codes permettant l'installation de mon module avec l'arduino, je remarque sur ce site que le LORA est bien en fonctionnement. Je crée alors un compte Cayenne sur lequel je pourrai visualiser toutes les informations que mon LORA m'enverra. </p>
+  
+ </br>
+<ul><li> Séance numéro 8 (26 mars 2018)</li></ul>
+</br>
 
+
+<p>Présentation des projets
+
+<https://github.com/frankasic/Bo-te-au-lettre-connect-e/blob/master/doc/Pr%C3%A9sentation%20Arduino%202.pdf></p>
+</br>
+  
+  
+  
+  
+ </br>
+ <ul><li> Séance numéro 9 (5 avril 2018)</li></ul>
+ </br>
+ 
+<p>Lors de cette séance j'ai essayé de modifier le code utilisé pour le LORA afin que j'envoie différentes informations à mon application Cayenne, ça n'a pas été u grand succès car pour renvoyer des informations à l'application, il faut que le code soit écrit d'une certaine manière.</p>
+
+ </br>
+ <ul><li> Séance numéro 10 (9 avril 2018)</li></ul>
+ </br>
+ 
+ <p> Lors de cette séance j'ai continué de tester différentes façon de codage pour le LORA, j'ai réussi à comprendre comment renvoyer les informations à Cayenne mais cependant il n'est pas possible de renvoyer un texte. J'ai également décidé d'ajouter une led RGB sur la face avant de la boite au lettre qui clignotera en rouge si le code tapé n'est pas le bon et en vert dans le cas contraire. J'ai également dû modifié le codage des boutons en raison d'un problème d'appuie sur un bouton, celui-ci me renvoyer plusieurs fois sa valeur alors que je ne la voulais qu'une seul fois.</p>
+ 
+ </br>
+  <ul><li> Séance numéro 11 (2 mai 2018)</li></ul>
+ </br>
+ 
+ <p> Lors de cette séance, tout mes codes étant plus ou moins fini, j'ai décidé d'assembler tout les codes, l'ordre étant important j'ai dû changer plusieurs fois l'assemblage du code final. J'ai également commencer l'assemblage de ma boite au lettre</p>
+ 
+ 
+ 
+ 
+ 
+ 
