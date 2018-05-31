@@ -105,6 +105,10 @@ Récapitulons le matériel nécessaire:
  </br>
  <ul><li> Séance numéro 12 (9mai 2018)</li></ul>
  
- C'est la der des der ! Ayant réussi à percer cette satané boite en métal chez moi, je reviens en td pour faire 1h30 de soudage. J'ai également reçu durant la séance une batterie de 9V pour pouvoir alimenter ma carte arduino. En voulant brancher les deux (fil rouge de la batterie au Vin de l'arduino et fil noir au GND) rien ne s'est passé, j'ai réssayé avec une seconde batterie de 9V et toujours rien. J'ai alors décidé d'alimenter mon arduino grâce à la prise usb. De plus je devrai entre la cette dernier séance et la séance de présentation commencer à emboiter le matériel électronique avec la boite puis tout tester dans son ensemble.
+ <p>C'est la der des der ! Ayant réussi à percer cette satané boite en métal chez moi, je reviens en td pour faire 1h30 de soudage. J'ai également reçu durant la séance une batterie de 9V pour pouvoir alimenter ma carte arduino. En voulant brancher les deux (fil rouge de la batterie au Vin de l'arduino et fil noir au GND) rien ne s'est passé, j'ai réssayé avec une seconde batterie de 9V et toujours rien. J'ai alors décidé d'alimenter mon arduino grâce à la prise usb. De plus je devrai entre la cette dernier séance et la séance de présentation commencer à emboiter le matériel électronique avec la boite puis tout tester dans son ensemble.</p>
+ 
+ </br>
+ 
+ <img src="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj_4aqbha_bAhWH7RQKHbxHAK4QjRx6BAgBEAU&url=https%3A%2F%2Fstock.adobe.com%2Fimages%2Flike-and-share%2F148341244&psig=AOvVaw0J2wPU8aRmWevK5Ic9mORu&ust=1527824836514030" title="Merci">
  
  
