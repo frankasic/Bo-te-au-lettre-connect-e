@@ -109,6 +109,6 @@ Récapitulons le matériel nécessaire:
  
  </br>
  
- <img src="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj_4aqbha_bAhWH7RQKHbxHAK4QjRx6BAgBEAU&url=https%3A%2F%2Fstock.adobe.com%2Fimages%2Flike-and-share%2F148341244&psig=AOvVaw0J2wPU8aRmWevK5Ic9mORu&ust=1527824836514030" title="Merci">
+ <img src="https://t4.ftcdn.net/jpg/01/57/61/73/240_F_157617369_UgGpLU6dEq1Uh87mFI5OWJx0hA9U2t7N.jpg" title="Merci">
  
  
