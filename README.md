@@ -22,7 +22,7 @@ Ce projet est réalisé dans le cadre de la formation de prépa intégrée de Po
 
 </br>
 
-<h2> A qui s'addresse l'objet ?</h2>
+<h2> A qui s'adresse l'objet ?</h2>
 
 </br>
 
