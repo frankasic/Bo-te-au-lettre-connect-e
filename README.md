@@ -12,4 +12,4 @@ Ce projet est réalisé dans le cadre de la formation de prépa intégrée de Po
 </p>
 </br>
 
-<img src="https://thumbs.dreamstime.com/t/livreur-portant-une-bo%C3%AEte-de-colis-et-renon%C3%A7ant-%C3%A0-des-pouces-60752963.jpg" title="Rendez heureux votre livreur" align="center">
+<img src="https://thumbs.dreamstime.com/t/livreur-portant-une-bo%C3%AEte-de-colis-et-renon%C3%A7ant-%C3%A0-des-pouces-60752963.jpg" title="Rendez heureux votre livreur" align="center"/>
