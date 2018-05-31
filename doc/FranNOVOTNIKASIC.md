@@ -109,6 +109,7 @@ Récapitulons le matériel nécessaire:
  
  </br>
  
- <img src="https://t4.ftcdn.net/jpg/01/57/61/73/240_F_157617369_UgGpLU6dEq1Uh87mFI5OWJx0hA9U2t7N.jpg" title="Merci">
+ <img src="https://t4.ftcdn.net/jpg/01/57/61/73/240_F_157617369_UgGpLU6dEq1Uh87mFI5OWJx0hA9U2t7N.jpg" title="Merci"
+ align="center">
  
  
