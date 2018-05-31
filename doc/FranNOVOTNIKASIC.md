@@ -102,8 +102,9 @@ Récapitulons le matériel nécessaire:
  
  <p> Lors de cette séance, tout mes codes étant plus ou moins fini, j'ai décidé d'assembler tout les codes, l'ordre étant important j'ai dû changer plusieurs fois l'assemblage du code final. J'ai également reçu une petite batterie qui va permettre d'alimenter mon LORA. En basse consommation, la batterie aura de quoi alimenter le LORA pendant 2 ans. J'ai commencé à assembler ma boite au lettre en fin de séance.</p>
  
+ </br>
+ <ul><li> Séance numéro 12 (9mai 2018)</li></ul>
  
- 
- 
+ C'est la der des der ! Ayant réussi à percer cette satané boite en métal chez moi, je reviens en td pour faire 1h30 de soudage. J'ai également reçu durant la séance une batterie de 9V pour pouvoir alimenter ma carte arduino. En voulant brancher les deux (fil rouge de la batterie au Vin de l'arduino et fil noir au GND) rien ne s'est passé, j'ai réssayé avec une seconde batterie de 9V et toujours rien. J'ai alors décidé d'alimenter mon arduino grâce à la prise usb. De plus je devrai entre la cette dernier séance et la séance de présentation commencer à emboiter le matériel électronique avec la boite puis tout tester dans son ensemble.
  
  
