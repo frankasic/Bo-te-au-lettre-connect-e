@@ -32,19 +32,19 @@ Ce projet est réalisé dans le cadre de la formation de prépa intégrée de Po
 <h2> Matériel utilisé </h2>
 
 <p>Voici la liste du matériel que j'ai utilisé lors de ce projet:
- <ul> une boite au lettre
- <ul> une carte arduino Nano
- <ul> une carte arduino Pro mini 
- <ul> un module Lora
- <ul> une alimentation pour la carte arduino Pro mini sur lequel sera soudé le Lora (dans mon cas par piles)
- <ul> des leds (pas obligatoires mais plus jolie)
- <ul> une led RGB
- <ul> un servomoteur
- <ul> des boutons poussoirs
- <ul> un potentiomètre
- <ul> des résistances de 220 Ohms
- <ul> un microrupteur
- <ul> une alimentation pour l'arduino Nano (batterie 9V dans mon cas)
+<ol><li> une boite au lettre</li>
+ <li>une carte arduino Nano</li>
+ <li> une carte arduino Pro mini</li> 
+ <li> un module Lora</li>
+ <li>une alimentation pour la carte arduino Pro mini sur lequel sera soudé le Lora (dans mon cas par piles)</li>
+ <li> des leds (pas obligatoires mais plus jolie)</li>
+ <li> une led RGB</li>
+ <li> un servomoteur</li>
+ <li> des boutons poussoirs</li>
+ <li> un potentiomètre</li>
+ <li> des résistances de 220 Ohms</li>
+ <li> un microrupteur</li>
+ <li> une alimentation pour l'arduino Nano (batterie 9V dans mon cas)</li></ol>
  
  Et tout autre matériel vous permettant de fabriquer la boite au lettre de vos rêves</p>
       
