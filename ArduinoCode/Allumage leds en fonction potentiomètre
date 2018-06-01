@@ -1,0 +1,60 @@
+int ledPin1 = 6;      // on met les pattes auxquels corresepondent les différentes leds
+int ledPin2 = 7;      
+int ledPin3 = 8;  
+
+float tension=0;
+
+int potpin=0; // Entrée analogique sur lequel est connecté le potentiomètre
+
+void setup() {
+  Serial.begin(9600);
+
+  // Pins associés aux leds ...
+  pinMode(ledPin1, OUTPUT);  
+  pinMode(ledPin2, OUTPUT);  
+  pinMode(ledPin3, OUTPUT);  
+
+}
+
+void loop() {
+  Serial.println("--------Affichage tension potentiomètre-------");
+  tension=analogRead(0); //lecture de la tension au borne du potentiomètre
+  Serial.println(tension);
+  
+  // Allumage des leds en fonction tension
+  if (tension<1000)
+  {
+    if (tension>250)
+    {
+       digitalWrite(ledPin1, HIGH); //Allumage Deuxième LED si on a assez tourné le potentiomètre
+ 
+       if (tension>500)
+       {
+           digitalWrite(ledPin2, HIGH);//Allumage Troisème  LED si on a assez tourné le potentiomètre
+     
+           if (tension>750)
+           {
+               digitalWrite(ledPin3, HIGH); //Allumage Quatrième  LED  si on a assez tourné le potentiomètre ( quasiment en butée )
+            
+           }
+       }
+    }
+  }
+  
+  //Extinction led en fonction tenstio
+  
+   if (tension < 750)
+  {
+      digitalWrite(ledPin3, LOW);    
+     
+  }
+  if (tension < 500)
+  {
+     digitalWrite(ledPin2, LOW);
+    
+  }
+  if (tension < 250)
+  {
+    digitalWrite(ledPin1, LOW);
+    
+  }
