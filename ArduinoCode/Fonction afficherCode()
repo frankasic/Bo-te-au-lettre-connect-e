@@ -1,0 +1,4 @@
+void remiseZeroCode(void){
+    for ( int i=0; i<sizeCode;i++){   //On passe autant de fois que nécéssaire (la taille du code), pour faire le reset ! D'ou l'interet d'une boucle pour ce faire
+         codeActuel[i]=0; }
+         }
