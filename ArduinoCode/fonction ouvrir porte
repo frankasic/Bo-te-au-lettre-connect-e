@@ -1,0 +1,14 @@
+//on crée une fonction en dehors du loop et du setup
+
+int value;
+void ouvrirPorte(int value){
+  if (value==1) 
+  {
+     servoPorte.write(0);    //Ordonne le déplacement des servomoteurs en position ouverte
+     porteOuverte=1;               //On met cette variable à 1 pour dire que la porte est ouverte !
+  }
+  if (value==0)
+  {displayColor(0,0,0); //led blanche, porte fermée, code pas encore taper en entier
+    servoPorte.write(90);  //Ordonne le déplacement des servomoteurs en position fermée 
+    porteOuverte=0;            //la porte est refermée, cette variable est donc mise à zero
+}}
